@@ -1,0 +1,3 @@
+rootProject.name='create library'
+include ':app'
+include ':showtoast'
